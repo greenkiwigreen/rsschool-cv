@@ -1,17 +1,17 @@
 # Xenia Kirienko
 
-* __Phone number:__ +375 29 783 27 47
-* __e-mail:__ proff.sha@gmail.com
-* __GitHub:__ greenkiwigreen
+* __Phone number:__ [+375 29 7832747](tel:+375297832747)
+* __e-mail:__ proff.sha@gmail.com  
+* __GitHub:__ [greenkiwigreen](https://github.com/greenkiwigreen)
 * __Telegram:__ @kiwi_green
 
 
 ## Education:
 
-__Name of Institution:__ Belarusian State University of Informatics and Radioelectronics
-__Faculty:__ Engineering-economical faculty
-__Speciality:__ Informational Systems and Technologies
-__Year of graduate:__ 2011
+__Name of Institution:__ Belarusian State University of Informatics and Radioelectronics  
+__Faculty:__ Engineering-economical faculty  
+__Speciality:__ Informational Systems and Technologies  
+__Year of graduate:__ 2011  
 
 
 ## Work experience:
