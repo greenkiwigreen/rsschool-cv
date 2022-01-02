@@ -41,6 +41,14 @@ Engineer-programmer, (organization of e-mail newsletters with mass mailing servi
 * Git (basics)
 
 
+## Code:
+
+```
+function multiply(a, b){
+  return a * b
+}
+```
+
 ## Language skills:
 
 * Russian and Belorussian (native),
