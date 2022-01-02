@@ -6,6 +6,11 @@
 * __Telegram:__ @kiwi_green
 
 
+## About me:
+
+I am a hardworking and ambitious individual with a great passion for the web industry. I have excellent communication skills, enabling me to effectively communicate with a wide range of people that's why i can fit in any team. I am seeking a front-end position where I can put into practice my knowledge and experience, ultimately benefiting the operations of the organisation that I'll work for.
+
+
 ## Education:
 
 __Name of Institution:__ Belarusian State University of Informatics and Radioelectronics  
@@ -27,6 +32,13 @@ Support engineer (receiving and processing applications from subscribers, mainta
 
 * __2013-2014 – International Charitable Organization UNIHELP__  
 Engineer-programmer, (organization of e-mail newsletters with mass mailing service UniSender, creating layouts for mailing, creating a blog for Meetcafe.org with CMS Wordpress, creating and updating user manual (Meetcafe.org)).
+
+
+## Skills:
+
+* HTML5
+* CSS
+* Git (basics)
 
 
 ## Language skills:
