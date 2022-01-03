@@ -1,3 +1,145 @@
-.container {
-    
+* {
+    box-sizing: border-box;
+  }
+html {
+    scroll-behavior: smooth;
 }
+
+body {
+    
+    font-family: 'Roboto', sans-serif;
+    min-width: 320px;
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    font-size: 18px;
+}
+  .container {
+      max-width: 1440px;
+      margin: 0 auto;
+  }
+  .nav {
+    background: #a5c5cf;
+  }
+  .nav-list {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      list-style: none;
+  }
+  .nav-link {
+      padding: 0 20px;
+      line-height: 50px;
+      transition: .3s;
+  }
+  .section-item a {
+    color: #4e808f;
+    text-decoration: none;  
+    transition: color 0.5s;
+  }
+  .section-item a:hover {
+    color: #4e808f;
+  }
+  .header-container {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 2%;
+  }
+  .main-container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .footer-container {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 2%;
+  }
+  
+  .section {
+    width: calc(50% - 25px);
+    margin: auto;
+  }
+  .section-full{
+    width: 100%;
+    margin: auto;
+
+  }
+  .section-triple{
+    width: 33,3%;
+    margin: auto;
+  }
+  .section-triple-bottom{
+    width: 33,3%;
+    margin: 1% auto;
+  }
+  .section-four{
+    width: 25%;
+    margin: 1% auto;
+  }
+  
+  @media (max-width: 768px) {
+    .section {
+      width: 100%;
+    }
+  }
+  
+  .main-pic{
+    display: flex;  
+    width: 150px;
+    height: 150px;
+    
+  }
+  .section-title {
+      font-size: 200%;
+
+  }
+  .main-title {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    text-align: center;  
+    text-transform: uppercase;
+  }
+  span {
+      font-weight: 900;
+  }
+  .nav-item a {
+      color: white;
+      text-decoration: none;
+      transition: color 0.5s;
+    }
+    
+.nav-item a:hover {
+      color: #4e808f;
+    }
+  
+  footer {
+    background: #a5c5cf;
+  }
+  .code {
+    padding: 0;
+    margin: 0;
+  }
+  h1{
+    color: #4e808f;
+  }
+  h2{
+    color: #4e808f;
+  }
+  .gh-pic{
+    display: flex;  
+    width: 150px;
+    height: 150px;
+    
+  }
+  .rss-pic{
+    display: flex;  
+    width: 150px;
+    height: 150px;
+    
+  }
+  
